@@ -1,1 +1,1 @@
-В этом репозитории вы можете найти мою курсовую работу по теме "Исследование парадигмы лотерейных билетов в глубинном обучении", которую я выполнил на втором курсе.
+In this repository you can find my term paper on the topic "Exploring the paradigm of lottery tickets in deep learning", which I completed in my second year.
